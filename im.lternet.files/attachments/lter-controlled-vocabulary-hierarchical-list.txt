@@ -1,0 +1,677 @@
+Title: LTER Controlled Vocabulary
+Author: jporter
+Keywords: 
+Scope: U.S. Long-Term Ecological Research Network
+URI: http://vocab.lternet.edu
+Powered by: TemaTres 1.31
+__________________________________________________________________________
+organizational units
+ .	habitats
+ .	communities
+ .	 .	community patterns
+ .	 .	community structure
+ .	 .	plant communities
+ .	food webs
+ .	 .	consumers
+ .	 .	 .	herbivores
+ .	 .	predators
+ .	populations
+ .	species
+ .	 .	endangered species
+ .	 .	invasive species
+ .	 .	plant species
+ .	 .	species lists
+disciplines
+ .	demography
+ .	geography
+ .	 .	biogeography
+ .	 .	geographic information systems
+ .	geology
+ .	 .	geomorphology
+ .	history
+ .	 .	land use history
+ .	hydrology
+ .	limnology
+ .	 .	paleolimnology
+ .	meteorology
+ .	 .	climatology
+ .	 .	 .	climate change
+ .	oceanography
+ .	agriculture
+ .	 .	silviculture
+ .	biogeochemistry
+ .	 .	ocean biogeochemistry
+ .	biology
+ .	 .	dendrochronology
+ .	 .	genetics
+ .	 .	physiology
+ .	 .	 .	plant physiology
+ .	 .	taxonomy
+ .	 .	phenology
+ .	 .	 .	plant phenology
+ .	chemistry
+ .	 .	soil chemistry
+ .	 .	soil solution chemistry
+ .	 .	water chemistry
+ .	conservation
+ .	ecology
+ .	 .	ecosystem ecology
+ .	 .	forest ecology
+ .	 .	paleoecology
+ .	 .	plant ecology
+ .	 .	 .	vegetation dynamics
+ .	 .	stream ecology
+ .	 .	trophic dynamics
+ .	 .	population dynamics
+ .	 .	vegetation dynamics
+ .	 .	community dynamics
+ .	 .	successional dynamics
+ .	biodiversity
+ .	 .	plant species composition
+ .	 .	species diversity
+ .	 .	species richness
+events
+ .	disturbances
+ .	 .	timber harvest
+ .	 .	 .	clearcutting
+ .	 .	droughts
+ .	 .	fires
+ .	 .	 .	wildfires
+ .	 .	floods
+ .	 .	hurricanes
+ .	 .	lightning
+ .	 .	storms
+ .	biological events
+ .	 .	flowering
+ .	 .	recruitment
+ .	 .	seedling establishment
+ .	frost
+ .	tides
+measurements
+ .	ecosystem properties
+ .	 .	allometry
+ .	 .	canopy cover
+ .	 .	leaf area
+ .	 .	 .	leaf area index
+ .	 .	 .	specific leaf area
+ .	 .	normalized vegetation index
+ .	 .	plant cover
+ .	 .	productivity
+ .	 .	 .	net primary productivity
+ .	 .	 .	 .	annual net primary production
+ .	 .	biomass
+ .	 .	 .	microbial biomass
+ .	 .	 .	plant biomass
+ .	 .	 .	aboveground biomass
+ .	 .	 .	belowground biomass
+ .	 .	nutrient cycles
+ .	atmospheric properties
+ .	 .	air quality
+ .	 .	atmospheric pressure
+ .	 .	dew point
+ .	 .	vapor pressure
+ .	 .	 .	humidity
+ .	 .	 .	 .	relative humidity
+ .	 .	climate
+ .	 .	 .	microclimate
+ .	 .	precipitation
+ .	 .	 .	interception
+ .	 .	 .	throughfall
+ .	 .	 .	snow accumulation
+ .	 .	 .	rain
+ .	 .	weather
+ .	 .	wind
+ .	 .	 .	wind direction
+ .	 .	 .	wind speed
+ .	chemical properties
+ .	 .	acid neutralizing capacity
+ .	 .	acidic
+ .	 .	alkalinity
+ .	 .	carbon to nitrogen ratio
+ .	 .	nitrogen content
+ .	 .	percent carbon
+ .	 .	 .	percent organic carbon
+ .	 .	percent nitrogen
+ .	 .	ph
+ .	 .	redox
+ .	 .	salinity
+ .	 .	total organic carbon
+ .	disturbance properties
+ .	 .	disturbance patterns
+ .	 .	fire severity
+ .	 .	hurricane damage
+ .	hydrological properties
+ .	 .	hydraulic conductance
+ .	 .	stream order
+ .	 .	water content
+ .	 .	 .	soil water content
+ .	 .	water level
+ .	 .	 .	stage height
+ .	 .	 .	lake level
+ .	 .	precipitation
+ .	 .	 .	interception
+ .	 .	 .	throughfall
+ .	 .	 .	snow accumulation
+ .	 .	 .	rain
+ .	 .	snow
+ .	 .	 .	snow water equivalence
+ .	 .	 .	snow depth
+ .	physical properties
+ .	 .	depth
+ .	 .	 .	secchi depth
+ .	 .	 .	snow depth
+ .	 .	 .	thaw depth
+ .	 .	porosity
+ .	 .	bulk density
+ .	 .	 .	soil bulk density
+ .	 .	dimensions
+ .	 .	 .	thickness
+ .	 .	electrical conductivity
+ .	 .	 .	conductivity
+ .	 .	 .	 .	specific conductivity
+ .	 .	fluorescence
+ .	 .	irradiance
+ .	 .	reflectance
+ .	 .	temperature
+ .	 .	 .	air temperature
+ .	 .	 .	maximum temperature
+ .	 .	 .	minimum temperature
+ .	 .	 .	snow temperature
+ .	 .	 .	soil temperature
+ .	 .	 .	water temperature
+ .	 .	radiation
+ .	 .	 .	light
+ .	 .	 .	net radiation
+ .	 .	 .	photosynthetically active radiation
+ .	 .	 .	solar radiation
+ .	population and community properties
+ .	 .	abundance
+ .	 .	 .	bacterial abundance
+ .	 .	 .	relative abundance
+ .	 .	community composition
+ .	 .	diversity
+ .	 .	 .	species composition
+ .	 .	 .	species diversity
+ .	 .	 .	species richness
+ .	 .	 .	biodiversity
+ .	 .	 .	 .	plant species composition
+ .	 .	 .	 .	species diversity
+ .	 .	 .	 .	species richness
+ .	 .	respiration rates
+ .	 .	trophic structure
+ .	 .	standing crop
+ .	soil properties
+ .	 .	soil bulk density
+ .	 .	soil moisture
+ .	 .	soil respiration
+ .	 .	soil texture
+ .	spatial properties
+ .	 .	aquatic
+ .	 .	 .	benthic
+ .	 .	 .	estuarine
+ .	 .	 .	marine
+ .	 .	 .	bathymetry
+ .	 .	elevation
+ .	 .	hyporheic
+ .	 .	land cover
+ .	 .	land use
+ .	 .	riparian
+ .	 .	spatial variability
+ .	 .	terrestrial
+ .	 .	 .	montane
+ .	 .	 .	 .	alpine
+ .	 .	 .	topography
+ .	 .	urban
+ .	 .	hydrography
+ .	temporal properties
+ .	 .	holocene
+ .	 .	long term
+ .	 .	seasonality
+ .	 .	winter
+ .	water properties
+ .	 .	CTD
+ .	 .	conductivity
+ .	 .	 .	specific conductivity
+ .	 .	turbidity
+ .	 .	water level
+ .	 .	 .	stage height
+ .	 .	 .	lake level
+ .	 .	water quality
+ .	 .	 .	suspended solids
+ .	decay rates
+ .	water balance
+ .	fluxes
+ .	 .	carbon fluxes
+ .	 .	emissions
+ .	 .	gas flux
+ .	 .	heat flux
+methods
+ .	analytical tools
+ .	 .	models
+ .	field methods
+ .	 .	cores
+ .	 .	surface elevation table
+ .	 .	eddy covariance
+ .	 .	chronosequences
+ .	 .	dataloggers
+ .	 .	dendrometer
+ .	 .	litterbags
+ .	 .	lysimeter
+ .	 .	moorings
+ .	 .	neutron probe
+ .	 .	permanent plots
+ .	 .	pitfall traps
+ .	 .	snowfences
+ .	 .	time domain reflectometry
+ .	 .	tracers
+ .	 .	transects
+ .	spatial methods
+ .	 .	geographic information systems
+ .	 .	mapping
+ .	 .	digital elevation model
+ .	 .	global positioning system
+ .	 .	imagery
+ .	 .	 .	aerial imagery
+ .	 .	 .	satellite imagery
+ .	 .	 .	 .	landsat
+ .	surveys
+ .	 .	census
+processes
+ .	physiological processes
+ .	 .	growth
+ .	 .	 .	plant growth
+ .	 .	 .	tree growth
+ .	 .	photosynthesis
+ .	 .	respiration
+ .	 .	transpiration
+ .	 .	metabolism
+ .	biogeochemical processes
+ .	 .	decomposition
+ .	 .	 .	leaf decomposition
+ .	 .	 .	litter decomposition
+ .	 .	 .	root decomposition
+ .	 .	mineralization
+ .	 .	 .	nitrogen mineralization
+ .	 .	nutrient cycling
+ .	 .	 .	nitrogen cycling
+ .	 .	 .	 .	denitrification
+ .	 .	 .	 .	nitrification
+ .	 .	 .	 .	nitrogen fixation
+ .	 .	 .	 .	nitrogen mineralization
+ .	biological processes
+ .	 .	succession
+ .	 .	translocation
+ .	 .	carbon cycling
+ .	 .	 .	carbon assimilation
+ .	 .	 .	respiration
+ .	 .	evolution
+ .	 .	 .	adaptation
+ .	 .	 .	extinction
+ .	 .	 .	mutation
+ .	 .	 .	natural selection
+ .	 .	 .	speciation
+ .	 .	litterfall
+ .	 .	microbial activity
+ .	 .	production
+ .	 .	 .	aboveground production
+ .	 .	 .	bacterial production
+ .	 .	 .	photosynthesis
+ .	 .	 .	plant growth
+ .	 .	 .	primary production
+ .	 .	 .	 .	net primary production
+ .	 .	 .	 .	 .	annual net primary production
+ .	 .	species interactions
+ .	 .	 .	browsing
+ .	 .	 .	competition
+ .	 .	 .	grazing
+ .	 .	 .	herbivory
+ .	 .	 .	parasitism
+ .	 .	 .	predation
+ .	 .	 .	symbiosis
+ .	 .	life history
+ .	 .	 .	colonization
+ .	 .	 .	dispersal
+ .	 .	 .	 .	seed dispersal
+ .	 .	 .	germination
+ .	 .	 .	growth
+ .	 .	 .	 .	plant growth
+ .	 .	 .	 .	tree growth
+ .	 .	 .	habitat selection
+ .	 .	 .	incubation
+ .	 .	 .	mortality
+ .	 .	 .	 .	tree mortality
+ .	 .	 .	regeneration
+ .	 .	 .	reproduction
+ .	 .	 .	survival
+ .	 .	disease
+ .	community respiration
+ .	disturbance
+ .	 .	forest disturbance
+ .	 .	human disturbance
+ .	 .	floods
+ .	physical processes
+ .	 .	atmospheric processes
+ .	 .	 .	advection
+ .	 .	 .	atmospheric deposition
+ .	 .	 .	deposition
+ .	 .	 .	 .	bulk deposition
+ .	 .	 .	 .	dry deposition
+ .	 .	 .	 .	nitrogen deposition
+ .	 .	 .	 .	wet deposition
+ .	 .	 .	eddy covariance
+ .	 .	 .	evapotranspiration
+ .	 .	 .	 .	evaporation
+ .	 .	 .	 .	transpiration
+ .	 .	 .	precipitation
+ .	 .	 .	 .	interception
+ .	 .	 .	 .	throughfall
+ .	 .	 .	 .	snow accumulation
+ .	 .	 .	 .	rain
+ .	 .	geological processes
+ .	 .	 .	accretion
+ .	 .	 .	erosion
+ .	 .	 .	sedimentation
+ .	 .	 .	soil disturbance
+ .	 .	 .	soil warming
+ .	 .	 .	subsidence
+ .	 .	hydrologic processes
+ .	 .	 .	discharge
+ .	 .	 .	 .	stream discharge
+ .	 .	 .	drainage
+ .	 .	 .	evapotranspiration
+ .	 .	 .	 .	evaporation
+ .	 .	 .	 .	transpiration
+ .	 .	 .	infiltration
+ .	 .	 .	irrigation
+ .	 .	 .	streamflow
+ .	 .	 .	precipitation
+ .	 .	 .	 .	interception
+ .	 .	 .	 .	throughfall
+ .	 .	 .	 .	snow accumulation
+ .	 .	 .	 .	rain
+ .	 .	burning
+ .	 .	dispersion
+ .	 .	scattering
+ .	 .	ocean currents
+ .	scientific activities
+ .	 .	remote sensing
+ .	 .	mapping
+ .	 .	modeling
+ .	 .	 .	simulation
+ .	 .	monitoring
+ .	 .	 .	long term monitoring
+ .	 .	trapping
+ .	 .	electric exclusion
+ .	 .	mass balance
+ .	accumulation
+ .	 .	snow accumulation
+ .	fertilization
+ .	harvesting
+ .	 .	browsing
+ .	 .	defoliation
+ .	 .	grazing
+ .	 .	herbivory
+ .	 .	mowing
+ .	 .	thinning
+ .	 .	timber harvest
+ .	 .	 .	clearcutting
+ .	landscape change
+ .	 .	desertification
+ .	 .	revegetation
+ .	recovery
+ .	restoration
+substances
+ .	biological substances
+ .	 .	detritus
+ .	 .	amino acids
+ .	 .	 .	leucine
+ .	 .	cellulose
+ .	 .	charcoal
+ .	 .	chlorophyll
+ .	 .	chlorophyll a
+ .	 .	inorganic nutrients
+ .	 .	nutrients
+ .	 .	 .	dissolved nutrients
+ .	 .	 .	leaf nutrients
+ .	 .	 .	soil nutrients
+ .	 .	phaeopigments
+ .	 .	wood
+ .	 .	litter
+ .	 .	phaeophytin
+ .	 .	phermones
+ .	 .	woody debris
+ .	 .	 .	coarse woody debris
+ .	elements and compounds
+ .	 .	aluminum
+ .	 .	antimony
+ .	 .	boron
+ .	 .	cadmium
+ .	 .	calcium
+ .	 .	 .	bicarbonate
+ .	 .	carbon
+ .	 .	 .	bicarbonate
+ .	 .	 .	carbohydrates
+ .	 .	 .	carbon dioxide
+ .	 .	 .	carbon monoxide
+ .	 .	 .	dissolved inorganic carbon
+ .	 .	 .	dissolved organic carbon
+ .	 .	 .	methane
+ .	 .	 .	organic carbon
+ .	 .	 .	soil carbon
+ .	 .	cesium
+ .	 .	chlorine
+ .	 .	 .	chloride
+ .	 .	chromium
+ .	 .	copper
+ .	 .	fluorine
+ .	 .	 .	fluoride
+ .	 .	 .	 .	sulfur hexafluoride
+ .	 .	iron
+ .	 .	lead
+ .	 .	magnesium
+ .	 .	manganese
+ .	 .	nickel
+ .	 .	nitrogen
+ .	 .	 .	nitrogen compounds
+ .	 .	 .	 .	ammonia
+ .	 .	 .	 .	ammonium
+ .	 .	 .	 .	nitrate
+ .	 .	 .	 .	nitric acid
+ .	 .	 .	 .	nitrite
+ .	 .	 .	 .	nitrous oxide
+ .	 .	 .	nitrogen-15
+ .	 .	 .	organic nitrogen
+ .	 .	 .	total nitrogen
+ .	 .	oxygen
+ .	 .	 .	carbon dioxide
+ .	 .	 .	carbon monoxide
+ .	 .	 .	dissolved oxygen
+ .	 .	 .	nitrate
+ .	 .	 .	nitrite
+ .	 .	 .	nitrous oxide
+ .	 .	 .	ozone
+ .	 .	 .	silica
+ .	 .	phosphorus
+ .	 .	 .	phosphate
+ .	 .	 .	soluble reactive phosphorus
+ .	 .	 .	total phosphorus
+ .	 .	potassium
+ .	 .	silicon
+ .	 .	 .	silica
+ .	 .	sodium
+ .	 .	strontium
+ .	 .	sulfur
+ .	 .	 .	sulfate
+ .	 .	 .	sulfide
+ .	 .	 .	sulfur hexafluoride
+ .	 .	zinc
+ .	inorganic matter
+ .	fertilizer
+ .	ions
+ .	 .	anions
+ .	 .	cations
+ .	 .	 .	hydrogen ions
+ .	organic matter
+ .	 .	soil organic matter
+ .	water
+ .	 .	brackish water
+ .	 .	seawater
+ .	 .	deuterium
+ .	 .	soil water
+ .	 .	soil moisture
+ .	 .	porewater
+ .	 .	runoff
+ .	gases
+ .	isotopes
+ .	 .	deuterium
+ .	 .	stable isotopes
+ .	pollution
+ .	 .	acid rain
+ .	 .	air pollution
+ .	sediments
+substrates
+ .	seawater
+ .	air
+ .	 .	atmosphere
+ .	basins
+ .	buildings
+ .	canopies
+ .	forest floor
+ .	freshwater
+ .	groundwater
+ .	 .	water table
+ .	hillslopes
+ .	hyporheic zone
+ .	ice
+ .	permafrost
+ .	rhizosphere
+ .	roads
+ .	sand
+ .	snow
+ .	 .	snow water equivalence
+ .	 .	snow depth
+ .	soil
+ .	 .	humic soils
+ .	 .	mesic soils
+ .	 .	mud
+ .	 .	organic layer
+ .	 .	soil horizons
+ .	water column
+ecosystems
+ .	terrestrial ecosystems
+ .	 .	deserts
+ .	 .	 .	playa
+ .	 .	dunes
+ .	 .	forest ecosystems
+ .	 .	 .	forests
+ .	 .	 .	 .	boreal forests
+ .	 .	 .	 .	clearcuts
+ .	 .	 .	 .	old growth forests
+ .	 .	grasslands
+ .	 .	 .	meadows
+ .	 .	tundra
+ .	 .	watersheds
+ .	aquatic ecosystems
+ .	 .	oceans
+ .	 .	coral reefs
+ .	 .	estuaries
+ .	 .	lakes
+ .	 .	rivers
+ .	 .	streams
+ .	wetlands
+ .	 .	bogs
+ .	 .	floodplain
+ .	 .	mangroves
+ .	 .	marshes
+ .	 .	 .	salt marshes
+ .	 .	peatland
+organisms
+ .	plankton
+ .	 .	phytoplankton
+ .	 .	zooplankton
+ .	algae
+ .	 .	diatoms
+ .	 .	macroalgae
+ .	animals
+ .	 .	fauna
+ .	 .	 .	macrofauna
+ .	 .	invertebrates
+ .	 .	 .	corals
+ .	 .	 .	aquatic invertebrates
+ .	 .	 .	arthropods
+ .	 .	 .	 .	insects
+ .	 .	 .	 .	 .	ants
+ .	 .	 .	 .	 .	beetles
+ .	 .	 .	 .	 .	grasshoppers
+ .	 .	 .	 .	 .	mites
+ .	 .	 .	 .	 .	termites
+ .	 .	 .	 .	microarthropods
+ .	 .	 .	 .	 .	soil microarthropods
+ .	 .	 .	crustaceans
+ .	 .	 .	 .	crabs
+ .	 .	 .	 .	crayfishes
+ .	 .	 .	larvae
+ .	 .	 .	macroinvertebrates
+ .	 .	 .	mollusks
+ .	 .	 .	 .	gastropods
+ .	 .	 .	 .	 .	slugs
+ .	 .	 .	 .	 .	snails
+ .	 .	 .	nematodes
+ .	 .	vertebrates
+ .	 .	 .	amphibians
+ .	 .	 .	 .	salamanders
+ .	 .	 .	birds
+ .	 .	 .	fishes
+ .	 .	 .	 .	trout
+ .	 .	 .	mammals
+ .	 .	 .	 .	humans
+ .	 .	 .	 .	small mammals
+ .	 .	 .	 .	 .	rabbits
+ .	 .	 .	 .	 .	shrews
+ .	 .	 .	reptiles
+ .	 .	 .	 .	lizards
+ .	fungi
+ .	 .	ascomycetes
+ .	 .	basidiomycetes
+ .	 .	mycorrhizae
+ .	 .	spores
+ .	humans
+ .	lichens
+ .	microbes
+ .	 .	bacteria
+ .	 .	protozoa
+ .	 .	 .	rotifers
+ .	 .	viruses
+ .	nekton
+ .	plants
+ .	 .	actinorhizal plants
+ .	 .	bark
+ .	 .	ferns
+ .	 .	flowers
+ .	 .	foliage
+ .	 .	grasses
+ .	 .	herbs
+ .	 .	 .	forbs
+ .	 .	leaves
+ .	 .	liverworts
+ .	 .	mosses
+ .	 .	 .	bryophytes
+ .	 .	periphyton
+ .	 .	pollen
+ .	 .	roots
+ .	 .	 .	fine roots
+ .	 .	seedlings
+ .	 .	seeds
+ .	 .	shrubs
+ .	 .	trees
+ .	 .	 .	logs
+ .	 .	 .	tree rings
+ .	 .	vegetation
+ .	 .	 .	crops
+ .	 .	 .	canopy gaps
+ .	 .	 .	leaf litter
+ .	 .	 .	seed banks
+ .	 .	 .	stems
+ .	 .	 .	treeline
+ .	 .	 .	understory vegetation
+ .	seston
