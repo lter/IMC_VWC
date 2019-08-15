@@ -1,4 +1,4 @@
-# Index for meeting ntoes
+# Index for meeting notes
 
 * [July 2019 VWC - NCO update & IMC Annual Meeting Final Planning](IMC_VWC_2019-07-08_113500.pdf)
 * [June 2019 VWC - ArcGIS Open Data Hub](IMC_VWC_2019-06-06_131400.pdf)
