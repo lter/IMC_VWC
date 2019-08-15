@@ -1,0 +1,52 @@
+Subject:
+[LTER-im] Water Cooler follow-up: RESTful Web Services examples
+From:
+Duane Costa <dcosta@lternet.edu>
+Date:
+Tue, 17 Aug 2010 15:48:00 -0400
+To:
+im@lternet.edu
+
+During this week's IM Water Cooler meetings, Mark mentioned that major parts of the LTER-HIVE Web Services Interface have been developed. Although this work has not yet been released and documentation still needs to be written, Mark thought that it would be worthwhile for us to provide you with an early preview of what some of these RESTful web services will look like.
+
+The example URLs below can be inspected directly in a web browser. However, it should be noted that these web services will normally be used by desktop and/or web application clients (or even by other web services) and are not really intended for direct display in a web browser. Some of the returned values may generate browser errors (such as Examples 6 and 7 below); in these cases, you should use 'View Source' in your browser to view the returned content. A command line utility that is very useful for displaying the content returned by these URLs is 'curl':
+(http://curl.haxx.se/download.html).
+
+Example 1 -- Return the number of concepts (i.e. terms) in the LTER vocabulary:
+http://scoria.lternet.edu:8080/lter-hive/schemes/lter/numberOfConcepts
+
+Example 2 -- Return a simple list of the prefered labels for all concepts in the LTER vocabulary:
+http://scoria.lternet.edu:8080/lter-hive/schemes/lter/concepts/prefLabels
+
+Example 3 -- Return a simple list of the prefered labels for all concepts in the NBII vocabulary:
+http://scoria.lternet.edu:8080/lter-hive/schemes/nbii/concepts/prefLabels
+
+Example 4 -- For the concept with identifier 'c_7' in the LTER vocabulary, return its prefered label:
+http://scoria.lternet.edu:8080/lter-hive/schemes/lter/concepts/c_7/prefLabel
+
+Example 5 -- For the concept with identifier 'c_7' in the LTER vocabulary, return a simple list of its alternate labels:
+http://scoria.lternet.edu:8080/lter-hive/schemes/lter/concepts/c_7/altLabels
+
+Example 6 -- For the concept with identifier 'c_7' in the LTER vocabulary, return its SKOS XML format:
+http://scoria.lternet.edu:8080/lter-hive/schemes/lter/concepts/c_7/SKOSFormat
+
+Example 7 -- For the concept with identifier '285' in the NBII vocabulary, return its SKOS XML format:
+http://scoria.lternet.edu:8080/lter-hive/schemes/nbii/concepts/285/SKOSFormat
+
+Example 8 -- For the concept with identifier '285' in the NBII vocabulary, return a list of its broader terms:
+http://scoria.lternet.edu:8080/lter-hive/schemes/nbii/concepts/285/broaders
+
+Example 9 -- For the concept with identifier '285' in the NBII vocabulary, return a list of its narrower terms:
+http://scoria.lternet.edu:8080/lter-hive/schemes/nbii/concepts/285/narrowers
+
+Example 10 -- For the concept with identifier '285' in the NBII vocabulary, return a list of its related terms:
+http://scoria.lternet.edu:8080/lter-hive/schemes/nbii/concepts/285/relateds
+
+Thanks,
+Duane
+
+
+-------------------------------------------------
+Long-Term Ecological Research Network Mailing List
+im@LTERnet.edu
+http://savanna.lternet.edu/groups/members.php?groupid=78
