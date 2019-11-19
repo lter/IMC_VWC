@@ -8,4 +8,7 @@ Virtual Water Cooler meeting notes for IMC
 - [2019-10-21: EML 2.2](IMC_VWC_notes/IMC_VWC_2019-10-21.md) 
 - [2019-09-09: future of Databits; 2020 IMC meeting](IMC_VWC_notes/IMC_VWC_2019-09-09.md) 
 - [2019-08-19: software for project management](IMC_VWC_notes/IMC_VWC_2019-08-19.md) 
+
+### pre August 2019 minutes
+
 - [index to minutes from pre August 2019 meetings](im.lternet.files/README.md) 
