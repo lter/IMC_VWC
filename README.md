@@ -4,6 +4,7 @@ Virtual Water Cooler meeting notes for IMC
 
 2019-08-15 Meeting notes from old im.lternet.edu have been tranfered to the folder im.lternet.files. The files were named with their original upload date. All attachments are stored in the folder `attachments`. That means that links in the pdf files don't work but the file names they are referring to are still the same.
 
+- [2020-06-08: Summer meeting announcements, and Non-tabular working group report on best practices)](IMC_VWC_notes/IMC_VWC_2020-06-08.md) 
 - [2020-03-09: LTER Synthesis Working group titled, “Integrating plant community and ecosystem response to chronic global change drivers.” (Kim Komatsu and Meghan Avolio)](IMC_VWC_notes/IMC_VWC_2020-03-09.md) 
 - [2020-02-10: IMKE - Site Reviews: process and preparation](IMC_VWC_notes/IMC_VWC_2020-02-10.md) 
 - [2020-01-13: Next generation climate and hydrology database request of comments on the recommendation](IMC_VWC_notes/IMC_VWC_2020-01-13.md) 
